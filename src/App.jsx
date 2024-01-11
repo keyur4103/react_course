@@ -1,10 +1,10 @@
 import React from "react";
-import Exercise from "./Exercise";
+import Exercise3 from "./Exercise3";
 
 function App() {
   return (
     <>
-      <Exercise />
+      <Exercise3 />
     </>
   );
 }
